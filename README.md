@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @mehmetpkts
+- 👀 I am interested in using computers, singing music and learning programming languages.
+- 🌱 I am currently interested in python, java and Front-end.
+- 🧠 I am open to learning and want to learn everything about software.
