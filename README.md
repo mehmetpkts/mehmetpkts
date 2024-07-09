@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mehmet Pektaş</h1>
-<h3 align="center">A passionate frontend , python developer from Turkey</h3>
+<h3 align="center">A passionate frontend, backend, mobile application and python developer from Turkey</h3>
 
 - 🔭 I’m currently working on **python**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **JavaScript** , **Flutter**.
 
 - 👨‍💻 All of my projects are available at [https://github.com/mehmetpkts?tab=repositories](https://github.com/mehmetpkts?tab=repositories)
 
